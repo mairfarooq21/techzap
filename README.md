@@ -10,4 +10,4 @@ Built with ReactJs and Tailwind CSS, TechZap features a dynamic slider, dropdown
 
 ## Project Demo
 
-![mairfarooq21 github io_frontend_ (1)](https://github.com/user-attachments/assets/970e44fb-fb71-4c5e-8203-6bb91e281600)
+![mairfarooq21 github io_frontend_ (1)](https://github.com/user-attachments/assets/8ecf0fad-02d1-4485-9cc7-11956c2cc76b)
