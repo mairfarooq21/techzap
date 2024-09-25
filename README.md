@@ -2,7 +2,7 @@
 
 TechZap is a frontend ecommerce website which sells tech products. This website was built to enhance my ReactJs skills and to showcase an interactive and modern interface with some UI/UX techniques.
 
-<a href=https://mairfarooq21.github.io/techzap/>Link</a>
+Website hosted here -> <a href=https://mairfarooq21.github.io/techzap/>Link</a>
 
 ## Technologies
 
