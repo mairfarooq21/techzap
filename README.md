@@ -7,7 +7,3 @@ Website hosted here -> <a href=https://mairfarooq21.github.io/techzap/>Link</a>
 ## Technologies
 
 Built with ReactJs and Tailwind CSS, TechZap features a dynamic slider, dropdown menus and button animations to enhance user interaction. It showcases my understanding of React components and Tailwind's utility-first design, while also making sure the website is fully responsive.
-
-## Project Demo
-
-![mairfarooq21 github io_frontend_ (1)](https://github.com/user-attachments/assets/8ecf0fad-02d1-4485-9cc7-11956c2cc76b)
