@@ -5,3 +5,5 @@ TechZap is a frontend ecommerce website which sells tech products. This website 
 ## Technologies
 
 Built with ReactJs and Tailwind CSS, TechZap features a dynamic slider, dropdown menus and button animations to enhance user interaction. It showcases my understanding of React components and Tailwind's utility-first design, while also making sure the website is fully responsive.
+
+##
